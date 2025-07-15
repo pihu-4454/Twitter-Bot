@@ -1,5 +1,13 @@
 # 🐦 Twitter Bot using Python & Tweepy
 
+
+![Python](https://img.shields.io/badge/Language-Python-blue.svg)
+![Repo Size](https://img.shields.io/github/repo-size/pihu-4454/Twitter-Bot)
+![Last Commit](https://img.shields.io/github/last-commit/pihu-4454/Twitter-Bot)
+![Issues](https://img.shields.io/github/issues/pihu-4454/Twitter-Bot)
+![Stars](https://img.shields.io/github/stars/pihu-4454/Twitter-Bot?style=social)
+
+
 This project is a simple Twitter bot built using **Python** and the **Tweepy** library. It can be extended to perform various automated tasks like posting tweets, liking, retweeting, and following users — all from your own Twitter developer account.
 
 ---
