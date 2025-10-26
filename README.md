@@ -63,9 +63,12 @@ access_token_secret = 'your-access-token-secret'
 python twitterbot_post_tweet.py
 ```
 
-### ✨ Author
-!Swathi Sahani
-!GitHub: @pihu-4454
+
+### ✨ Author  
+Swathi Sahani  
+GitHub: [@pihu-4454](https://github.com/pihu-4454)
+
+
 
 
 
