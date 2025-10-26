@@ -64,8 +64,8 @@ python twitterbot_post_tweet.py
 ```
 
 ### ✨ Author
-Swathi Sahani
-GitHub: @pihu-4454
+!Swathi Sahani
+!GitHub: @pihu-4454
 
 
 
